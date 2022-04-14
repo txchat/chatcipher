@@ -1,0 +1,7 @@
+.idea/
+debug/
+bin/
+*.o
+*.a
+*.so
+*.exe
